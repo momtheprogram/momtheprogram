@@ -1,10 +1,6 @@
 ### Hi there 👋
 
 - You can reach me at:
-  
-   Telegram                                                                                Gmail
-                        
-
 [![Telegram](https://content.foto.my.mail.ru/mail/sandalovanv/_blogs/i-343.jpg)](https://t.me/mom_of_code/ "Send me a message")      [![Gmail](https://mir-s3-cdn-cf.behance.net/projects/202/e86ec7102100865.Y3JvcCwzODM1LDMwMDAsODUsMA.jpg)](mailto:momtheprogram@gmail.com/ "Write me an email")
 
 <!--
