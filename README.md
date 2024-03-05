@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - You can reach me at:
-[Telegram] (https://t.me/mom_of_code/ "Send me a message") 
+  
+[![Telegram](https://u2.9111s.ru/uploads/202303/23/bd382530e7a8ad3bd85897dd2ff9594d.jpg )](https://t.me/mom_of_code/ "Send me a message")
 
 <!--
 **momtheprogram/momtheprogram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
