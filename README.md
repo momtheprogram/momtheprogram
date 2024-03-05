@@ -2,10 +2,10 @@
 
 - You can reach me at:
   
-                            Gmail
-Telegram                        
+   Telegram                         Gmail
+                        
 
-[![Telegram](https://static.wixstatic.com/media/e81cdc_efcc928981c0459c8f2cc589d40662b1~mv2.jpeg/v1/fill/w_60,h_40,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/telegrambots.jpeg)](https://t.me/mom_of_code/ "Send me a message") [![Gmail](https://i.pinimg.com/236x/c1/5f/8b/c15f8b6fa2007dff800ecd072149dfcc.jpg?nii=t)](mailto:momtheprogram@gmail.com/ "Write me an email")
+[![Telegram](https://static.wixstatic.com/media/e81cdc_efcc928981c0459c8f2cc589d40662b1~mv2.jpeg/v1/fill/w_60,h_40,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/telegrambots.jpeg)](https://t.me/mom_of_code/ "Send me a message")      [![Gmail](https://i.pinimg.com/236x/c1/5f/8b/c15f8b6fa2007dff800ecd072149dfcc.jpg?nii=t)](mailto:momtheprogram@gmail.com/ "Write me an email")
 
 <!--
 **momtheprogram/momtheprogram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
