@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - You can reach me at:
-[![Gmail](https://avatars.mds.yandex.net/i?id=49466fb60f65e021c3cca92d4f66a4fc_sr-10122878-images-thumbs&n=13)](mailto:momtheprogram@gmail.com/ "Write me an email")[![Telegram](https://content.foto.my.mail.ru/mail/sandalovanv/_blogs/i-343.jpg)](https://t.me/mom_of_code/ "Send me a message")
+[![Gmail](https://1.bp.blogspot.com/-lzoUL6Iz0RY/YdnPXtcASSI/AAAAAAAAKQk/y_Lmzq_1qyocMZsGwAGo3k_iW1hzZpNogCNcBGAsYHQ/s199/gmail-to-get-new-icon-as-part-of-g-suite-rebranding.jpg)](mailto:momtheprogram@gmail.com/ "Write me an email")[![Telegram](https://content.foto.my.mail.ru/mail/sandalovanv/_blogs/i-343.jpg)](https://t.me/mom_of_code/ "Send me a message")
 <!--
 **momtheprogram/momtheprogram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
