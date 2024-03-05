@@ -5,7 +5,7 @@
    Telegram                         Gmail
                         
 
-[![Telegram](https://avatars.mds.yandex.net/i?id=e9f0f79a9fad99f2bd3d70d72c847119_sr-10932937-images-thumbs&n=13)](https://t.me/mom_of_code/ "Send me a message")      [![Gmail](https://i.pinimg.com/236x/c1/5f/8b/c15f8b6fa2007dff800ecd072149dfcc.jpg?nii=t)](mailto:momtheprogram@gmail.com/ "Write me an email")
+[![Telegram](https://content.foto.my.mail.ru/mail/sandalovanv/_blogs/i-343.jpg)](https://t.me/mom_of_code/ "Send me a message")      [![Gmail](https://i.pinimg.com/236x/c1/5f/8b/c15f8b6fa2007dff800ecd072149dfcc.jpg?nii=t)](mailto:momtheprogram@gmail.com/ "Write me an email")
 
 <!--
 **momtheprogram/momtheprogram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
