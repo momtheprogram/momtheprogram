@@ -3,6 +3,8 @@
 :computer: A Python developer with great interest and enthusiasm. I like API in all its manifestations. I often indulge myself in developing telegram bots for fun and a little money.:sweat_smile:\
 🌱 I am currently trying the Fast API framework and learning asynchronous programming in Python.
 
+It's me on the avatar, but it's depicted in the cartoon :grin:
+
 ### 🛠 Technical Stack
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
