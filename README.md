@@ -3,7 +3,7 @@
 A Python developer with great interest and enthusiasm. I love API in all its manifestations.\
 I often indulge myself in developing telegram bots for fun and a little money.
 
-## 🛠 Technical Stack
+### 🛠 Technical Stack
 *   Python language
 *   SQLite, PostgreSQL, SQL
 *   Django Framework, FastApi, DRF
