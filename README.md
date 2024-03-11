@@ -1,4 +1,7 @@
 ## Hi there 👋
+## I'm Natalia
+A Python developer with great interest and enthusiasm. I love API in all its manifestations.\
+I often indulge myself in developing telegram bots for fun and a little money.
 
 ### You can reach me at:
 
@@ -17,3 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mom_the_program&theme=solarized_dark)
