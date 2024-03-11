@@ -1,7 +1,7 @@
 ## Hi there 👋
 ### I'm Natalia
 :computer: A Python developer with great interest and enthusiasm. I like API in all its manifestations.\
-:lollipop: I often indulge myself in developing telegram bots for fun and a little money.:sweat_smile:\
+I often indulge myself in developing telegram bots for fun and a little money.:sweat_smile:\
 🌱 I am currently trying the Fast API framework and learning asynchronous programming in Python.
 
 ### 🛠 Technical Stack
