@@ -26,7 +26,8 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
     and so on...
   </div>
-  
+
+
 Welcome to the HR managers, write to me)
 
 ### 📫 You can reach me at:
