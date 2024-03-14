@@ -30,7 +30,7 @@ It's me on the avatar, but it's depicted in the cartoon :grin:
   </div>
 
 
-Welcome to the HR managers, write to me)
+Welcome the HR managers, write to me)
 
 ### 📫 You can reach me at:
 
