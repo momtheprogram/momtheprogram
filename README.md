@@ -16,9 +16,9 @@ It's me on the avatar, but it's depicted in the cartoon :grin:
     <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="50" height="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="50" height="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreeSQL"  alt="PostgreeSQL" width="50" height="50"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/poetry/poetry-original.svg" width="40" height="45"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" width="70" height="45"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/poetry/poetry-original.svg"  title="Poetry" alt="Poetry" width="40" height="45"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg"  title="Pytest" alt="Pytest" width="70" height="45"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg"  title="SSH" alt="SSH" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg" width="70" height="70"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg"  title="json" alt="json" width="50" height="50"/>&nbsp;
